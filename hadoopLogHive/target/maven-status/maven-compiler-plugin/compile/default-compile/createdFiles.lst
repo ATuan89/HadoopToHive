@@ -1,0 +1,3 @@
+com/hadoop/hive/WriteHDFS2.class
+com/hadoop/hive/WriteHDFS.class
+com/hadoop/hive/ConvertJsonToCsv.class
